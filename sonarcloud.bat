@@ -1,0 +1,1 @@
+C:\Users\Jace\Downloads\sonar-scanner-cli-4.7.0.2747-windows\sonar-scanner-4.7.0.2747-windows\bin\sonar-scanner.bat -D"sonar.organization=jaceaxel-1" -D"sonar.projectKey=JaceAxel_demo" -D"sonar.sources=." -D"sonar.host.url=https://sonarcloud.io/"
